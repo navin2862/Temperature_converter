@@ -31,11 +31,9 @@ body {
     min-height:fit-content;
     max-height: fit-content;
     
-    
-    
     text-shadow: 5px 5px 5px black ,5px -5px 10px grey;;
     text-decoration: underline;
-    padding: 5%;
+   
     display:block;
    
 }
@@ -43,7 +41,7 @@ body {
 {
     text-shadow: 5px 5px 5px black ,5px -5px 10px grey;;
     border-bottom: 10px solid;
-    padding: 5%;
+    padding: 2%;
    text-align: center;
    text-decoration: underline;
    font-family:bold;
@@ -69,10 +67,13 @@ body {
    padding:3%;
    border-bottom: 3px solid;
    
+    text-align: 10px;
+   
 }
 #box3
 {
-    border-bottom: 4px solid;
+    border-bottom: 3px solid;
     margin:0%;
+   
     padding: 2%;
 }
